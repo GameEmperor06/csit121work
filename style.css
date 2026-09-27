@@ -1,0 +1,42 @@
+h1 {
+  color: orangered;
+}
+
+h2 {
+  color: orangered;
+}
+
+h3 {
+  color: orangered;
+}
+
+
+body { color: blue;
+  background-color: silver; 
+}
+
+#lab03 { color: blue;
+  background-color:white;
+}
+
+
+p, i { 
+  color: blue;
+}
+
+ol { 
+  color: blue;
+  font-weight: bold;
+}
+
+a { 
+  color:blue;
+  font-weight: bold; 
+}
+
+.special {
+  color: blue;
+  background-color:cyan;
+  font-weight: bold;
+}
+
